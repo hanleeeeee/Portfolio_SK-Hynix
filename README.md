@@ -1,3 +1,8 @@
 # Portfolio_SK-Hynix
 ## 안녕하십니까 ['26년 상반기] Talent hy-way 신입 (청주) 기반기술 직무에 지원한 이민한입니다.
-## '경험정리_이민한.pdf' 파일을 읽어주시면 감사하겠습니다.
+
+
+<img width="1280" height="720" alt="슬라이드1" src="https://github.com/user-attachments/assets/a2339ea7-ec90-4961-adab-72788b744150" />
+<img width="1280" height="720" alt="슬라이드2" src="https://github.com/user-attachments/assets/8c15ce08-c75c-4df1-bd76-5c134ccf5a13" />
+<img width="1280" height="720" alt="슬라이드3" src="https://github.com/user-attachments/assets/0b00e97a-a30c-4177-b9e8-d3e7de508f96" />
+<img width="1280" height="720" alt="슬라이드4" src="https://github.com/user-attachments/assets/556c765a-1ddd-43eb-982c-55636fb29824" />
